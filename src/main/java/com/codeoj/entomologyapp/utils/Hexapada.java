@@ -1,0 +1,31 @@
+package com.codeoj.entomologyapp.utils;
+
+public enum Hexapada {
+	Isoptera,
+	Archaeognata,
+	Siphonaptera,
+	Phtiraptera,
+	Thysanura,
+	Hymenoptera,
+	Phasmatodea,
+	Psocopteros,
+	Hemiptera,
+	Mecoptera,
+	Thysonoptera,
+	Lepidoptera,
+	Diptera,
+	Coleoptera,
+	Ephemoptera,
+	Odonata,
+	Trichoptera,
+	Plecoptera,
+	Megaloptera,
+	Raphidioptera,
+	Neuroptera,
+	Dermaptera,
+	Orthoptera,
+	Blattodea,
+	Mantodea,
+	Zoraptera,
+	Strepsiptera
+}
