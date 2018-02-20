@@ -8,5 +8,6 @@ public class EntomologyAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EntomologyAppApplication.class, args);
+
 	}
 }

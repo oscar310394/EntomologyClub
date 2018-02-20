@@ -2,7 +2,7 @@ package com.codeoj.entomologyapp.utils;
 
 import java.util.Date;
 
-public class Subphylum {
+public abstract class Subphylum {
 
 	private int id;
 	private String subphylum;
